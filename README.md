@@ -11,7 +11,7 @@ This is a simple example of solving Gridworld problems using a special type of R
 If on Ubuntu you can install tkinter for python2.7 with ``$ sudo apt-get install python-tk``
 
 # Usage
-Run `python Learner.py <Number of Rows> <Number of Columns>` in terminal to see the the bot in action. It'll find the optimal strategy pretty fast (like in 15 seconds). Number of Rows and Columns should be greater than 5*5. Add more obstacles and terminal states modifying `World.py`.
+Run `python Learner.py <Number of Rows> <Number of Columns>` in terminal to see the the bot in action. It'll find the optimal strategy pretty fast (like in 15 seconds). Number of Rows and Columns should be greater than (5*5). Add more obstacles and terminal states by modifying `World.py`.
 
 # Credit
 This is code is highly based on [Youtube Tutorial](https://youtu.be/A5eihauRQvo) by [Siraj Raval](https://github.com/llSourcell).
